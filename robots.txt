@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lidano21.github.io/Lidano-Marco-portfolio/sitemap.xml
